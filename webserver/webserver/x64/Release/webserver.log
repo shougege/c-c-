@@ -1,0 +1,4 @@
+﻿  webserver.c
+C:\Users\Administrator\source\repos\webserver\webserver\webserver.c(55,1): warning C4244: “初始化”: 从“SOCKET”转换到“int”，可能丢失数据
+C:\Users\Administrator\source\repos\webserver\webserver\webserver.c(69,1): error C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\WinSock2.h(1831): message : 参见“inet_addr”的声明

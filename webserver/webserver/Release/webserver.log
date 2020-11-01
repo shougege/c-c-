@@ -1,0 +1,19 @@
+﻿  webserver.c
+C:\Users\Administrator\source\repos\webserver\webserver\webserver.c(87,8): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Administrator\source\repos\webserver\webserver\webserver.c(125,10): warning C4098: “req”:“void”函数返回值
+C:\Users\Administrator\source\repos\webserver\webserver\webserver.c(90,1): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(2263): message : 参见“sscanf”的声明
+C:\Users\Administrator\source\repos\webserver\webserver\webserver.c(98,1): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message : 参见“fopen”的声明
+C:\Users\Administrator\source\repos\webserver\webserver\webserver.c(112,1): warning C4996: 'fileno': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _fileno. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(2459): message : 参见“fileno”的声明
+C:\Users\Administrator\source\repos\webserver\webserver\webserver.c(113,1): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _itoa. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdlib.h(1323): message : 参见“itoa”的声明
+C:\Users\Administrator\source\repos\webserver\webserver\webserver.c(149,1): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\WinSock2.h(1831): message : 参见“inet_addr”的声明
+  正在生成代码
+  1 of 10 functions (10.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  webserver.vcxproj -> C:\Users\Administrator\source\repos\webserver\Release\webserver.exe
