@@ -1,0 +1,7 @@
+https://developer.ibm.com/zh/languages/java/articles/gni-getting-started/
+
+
+
+first:             java javac 可以运行
+second:        vs 里面的环境，注意是dll ,32-64bit。
+last:             注意参数传值的 变化
